@@ -1,7 +1,8 @@
 # AWS
 RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: 13 de Dezembro de 2023 Empresa: TechSolutions Ltda. Responsável: Jonathas Soares
+Data: 13 de Dezembro de 2023 Empresa: TechSolutions Ltda. 
+Responsável: Jonathas Soares
 
 Introdução Este Relatório apresenta o processo de implementação de ferramentas na empresa TechSolutions Ltda., Realizado por Jonathas Soares. O objetivo do projeto é identificar 3 serviços AWS para otimizar custos.
 
